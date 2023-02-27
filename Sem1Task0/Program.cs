@@ -13,6 +13,7 @@ if (inputNum != null)
     // Находим квадрат числа
     int outNum = number * number;
     // Выводим данные в консоль
-    Console.WriteLine("Квадрат числа: "+outNum);
+    Console.WriteLine("Квадрат числа: " + outNum);
 
 }
+// Console.WriteLine("Квадрат числа: " + Math.Pow(int.Parse(inputNum), 2));
