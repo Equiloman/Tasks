@@ -1,4 +1,7 @@
 ﻿// Задача №49
+// Задайте двумерный массив. Найдите элементы, у
+// которых оба индекса чётные, и замените эти
+// элементы на их квадраты.
 // //takes double value from console; replaces ',' with '.' if found
 // int ReadDataToInt(string msg)
 // {
