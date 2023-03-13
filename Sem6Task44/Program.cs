@@ -1,4 +1,7 @@
-﻿int ReadDataToInt(string msg)
+﻿// Задача №44
+// Не используя рекурсию, выведите первые N чисел
+// Фибоначчи. Первые два числа Фибоначчи: 0 и 1.
+int ReadDataToInt(string msg)
 {
     Console.Write(msg);
     return (int.Parse(Console.ReadLine() ?? "0"));
