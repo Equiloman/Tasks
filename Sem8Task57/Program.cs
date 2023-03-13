@@ -1,4 +1,8 @@
 ﻿// Задача №57
+// Составить частотный словарь элементов
+// двумерного массива. Частотный словарь содержит
+// информацию о том, сколько раз встречается
+// элемент входных данных.
 // //takes data from console in reply to welcome msg & returns input as Int32
 // int ReadDataToInt(string msg)
 // {
